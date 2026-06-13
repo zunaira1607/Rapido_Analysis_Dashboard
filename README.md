@@ -1,6 +1,6 @@
-<img width="954" height="489" alt="RAD3" src="https://github.com/user-attachments/assets/6b994e30-a2ed-4854-b33b-3c071f24ad90" /># Rapido_Analysis_Dashboard
+## Rapido_Analysis_Dashboard
 The objective of this project was to transform raw ride data into meaningful business insights through data cleaning, analysis, and visualization
-
+---
 ## 📌 Project Overview
 
 This project presents an interactive Tableau dashboard designed to analyze ride-sharing operations, customer behavior, and revenue performance for a Rapido-like transportation service.
