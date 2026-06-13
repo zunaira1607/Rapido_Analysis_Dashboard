@@ -1,4 +1,4 @@
-## Rapido_Analysis_Dashboard
+##🏍 Rapido_Analysis_Dashboard
 The objective of this project was to transform raw ride data into meaningful business insights through data cleaning, analysis, and visualization
 ---
 ## 📌 Project Overview
@@ -142,6 +142,7 @@ https://public.tableau.com/app/profile/zunaira.sanober/viz/RapiodAnalysisDashboa
 
 ## 🔗 GitHub Repository
 
+https://github.com/zunaira1607/Rapido_Analysis_Dashboard
 
 
 ---
